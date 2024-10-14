@@ -1,0 +1,28 @@
+/* p {
+  color: red;
+} */
+
+/* #parrafo-uno {
+  color: green;
+} */
+
+/* .parrafos {
+  color: blue;
+} */
+
+h1,
+h2 {
+  font-family: "Courier New", Courier, monospace;
+}
+
+/* section p {
+  color: blueviolet;
+} */
+
+/* h2 + p {
+  color: red
+} */
+
+h2 ~ p {
+  color: red;
+}
